@@ -1,0 +1,1 @@
+python ../../utils/plot.py -f ../../data/AncModelStepResponse.bin -xy t,x0 t,x1 t,u t,y
